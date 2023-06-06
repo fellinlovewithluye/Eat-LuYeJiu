@@ -186,11 +186,11 @@ const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
             id: "err"
         });
         createjs.Sound.registerSound({
-            src: "./static/music/mua.mp3",
+            src: "./static/music/奶嗝.mp3",
             id: "end"
         });
         createjs.Sound.registerSound({
-            src: "./static/music/mua.mp3",
+            src: "./static/music/奶嗝.mp3",
             id: "tap"
         });
         gameRestart();
